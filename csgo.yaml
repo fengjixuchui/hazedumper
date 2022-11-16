@@ -1,13 +1,13 @@
 ---
-timestamp: 1642496131
+timestamp: 1668601111
 signatures:
   anim_overlays: 10640
   clientstate_choked_commands: 19760
   clientstate_delta_ticks: 372
   clientstate_last_outgoing_command: 19756
   clientstate_net_channel: 156
-  convar_name_hash_table: 192760
-  dwClientState: 5808068
+  convar_name_hash_table: 197024
+  dwClientState: 5894548
   dwClientState_GetLocalPlayer: 384
   dwClientState_IsHLTV: 19784
   dwClientState_Map: 652
@@ -16,48 +16,49 @@ signatures:
   dwClientState_PlayerInfo: 21184
   dwClientState_State: 264
   dwClientState_ViewAngles: 19856
-  dwEntityList: 81600284
-  dwForceAttack: 52437968
-  dwForceAttack2: 52438004
-  dwForceBackward: 52438028
-  dwForceForward: 52438016
-  dwForceJump: 86490520
-  dwForceLeft: 52438040
-  dwForceRight: 52438052
-  dwGameDir: 6457088
-  dwGameRulesProxy: 86961660
-  dwGetAllClasses: 14548188
-  dwGlobalVars: 5807304
-  dwGlowObjectManager: 87138840
-  dwInput: 86127856
-  dwInterfaceLinkList: 9843524
-  dwLocalPlayer: 14378476
-  dwMouseEnable: 14402184
-  dwMouseEnablePtr: 14402136
-  dwPlayerResource: 52430720
-  dwRadarBase: 86011028
-  dwSensitivity: 14401828
-  dwSensitivityPtr: 14401784
-  dwSetClanTag: 565904
-  dwViewMatrix: 81541172
-  dwWeaponTable: 86130616
+  dwEntityList: 81772100
+  dwForceAttack: 52599980
+  dwForceAttack2: 52599992
+  dwForceBackward: 52599896
+  dwForceForward: 52600028
+  dwForceJump: 86735820
+  dwForceLeft: 52599908
+  dwForceRight: 52599920
+  dwGameDir: 6532480
+  dwGameRulesProxy: 87208956
+  dwGetAllClasses: 14712796
+  dwGlobalVars: 5893720
+  dwGlowObjectManager: 87386360
+  dwInput: 86348824
+  dwInterfaceLinkList: 10064212
+  dwLocalPlayer: 14575972
+  dwMouseEnable: 86200440
+  dwMouseEnablePtr: 86200392
+  dwPlayerResource: 52592624
+  dwRadarBase: 86190364
+  dwSensitivity: 14592896
+  dwSensitivityPtr: 14592896
+  dwSetClanTag: 580224
+  dwViewMatrix: 81710196
+  dwWeaponTable: 86353140
   dwWeaponTableIndex: 12908
-  dwYawPtr: 14401256
-  dwZoomSensitivityRatioPtr: 14425400
-  dwbSendPackets: 889714
-  dwppDirect3DDevice9: 675920
-  find_hud_element: 753485824
-  force_update_spectator_glow: 3901866
-  interface_engine_cvar: 256492
-  is_c4_owner: 3955072
+  dwYawPtr: 14592272
+  dwZoomSensitivityRatioPtr: 14615424
+  dwbSendPackets: 905106
+  dwppDirect3DDevice9: 680640
+  find_hud_element: 723442160
+  force_update_spectator_glow: 4026730
+  interface_engine_cvar: 260764
+  is_c4_owner: 4082080
   m_bDormant: 237
+  m_bIsLocalPlayer: 13864
   m_flSpawnTime: 66496
   m_pStudioHdr: 10576
-  m_pitchClassPtr: 86011696
-  m_yawClassPtr: 14401256
-  model_ambient_min: 5820476
-  set_abs_angles: 1987008
-  set_abs_origin: 1986560
+  m_pitchClassPtr: 86200176
+  m_yawClassPtr: 14592272
+  model_ambient_min: 5902732
+  set_abs_angles: 1986704
+  set_abs_origin: 1986256
 netvars:
   cs_gamerules_data: 0
   m_ArmorValue: 71628
@@ -141,6 +142,7 @@ netvars:
   m_nFallbackSeed: 12764
   m_nFallbackStatTrak: 12772
   m_nForceBone: 9868
+  m_nModelIndex: 600
   m_nTickBase: 13376
   m_nViewModelIndex: 10704
   m_rgflCoordinateFrame: 1092
